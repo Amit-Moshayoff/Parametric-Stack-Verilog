@@ -23,5 +23,4 @@ The testbench validates the design through a structured sequence, as clearly cap
 
 The following waveform from EPWave captures the complete verification suite, demonstrating perfect LIFO execution and robust corner-case handling:
 
-![Parametric Stack Verification Waveform](<img width="1862" height="331" alt="צילום מסך 2026-05-19 152446" src="https://github.com/user-attachments/assets/e07fc183-6fb1-4fad-8a76-33fc83de2356" />
-)
+![Parametric Stack Verification Waveform](<img width="1862" height="331" alt="צילום מסך 2026-05-19 152446" src="https://github.com/user-attachments/assets/e07fc183-6fb1-4fad-8a76-33fc83de2356" />)
